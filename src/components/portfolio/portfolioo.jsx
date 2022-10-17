@@ -18,10 +18,74 @@ const portfolioo = () => {
             <img src={IMG1} alt="" />
 
           </div>
-          <h3>This is a portfolio item title</h3>
-
+          <h3>Crypto Currency Dashboard & Financial Visualization</h3>
+          <div className="portfolio__item-cta">
           <a href="https://github.com/K1ko" className='btn' target="_blank">Github</a>
           <a href="https://dribbble.com/Alien_pixels" className='btn btn-primary' target="_blank">Live Demo</a>
+          </div>
+        </article>
+        <article className = "portfolio__item">
+          <div className = "portfolio__item-image">
+            <img src={IMG2} alt="" />
+
+          </div>
+          <h3>Charts templates & infographics in Figma</h3>
+
+          
+<div className="portfolio__item-cta">
+          <a href="https://github.com/K1ko" className='btn' target="_blank">Github</a>
+          <a href="https://dribbble.com/Alien_pixels" className='btn btn-primary' target="_blank">Live Demo</a>
+          </div>
+        </article>
+        <article className = "portfolio__item">
+          <div className = "portfolio__item-image">
+            <img src={IMG3} alt="" />
+
+          </div>
+          <h3>Figma Dashboard UI kit for data design web apps</h3>
+
+          <div className="portfolio__item-cta">
+          <a href="https://github.com/K1ko" className='btn' target="_blank">Github</a>
+          <a href="https://dribbble.com/Alien_pixels" className='btn btn-primary' target="_blank">Live Demo</a>
+          </div>
+
+        </article>
+        <article className = "portfolio__item">
+          <div className = "portfolio__item-image">
+            <img src={IMG4} alt="" />
+
+          </div>
+          <h3>Maintaining tasks and tracking progress</h3>
+
+          <div className="portfolio__item-cta">
+          <a href="https://github.com/K1ko" className='btn' target="_blank">Github</a>
+          <a href="https://dribbble.com/Alien_pixels" className='btn btn-primary' target="_blank">Live Demo</a>
+          </div>
+
+        </article>
+        <article className = "portfolio__item">
+          <div className = "portfolio__item-image">
+            <img src={IMG5} alt="" />
+
+          </div>
+          <h3>Charts templates & infographics in Figma</h3>
+
+         <div className="portfolio__item-cta">
+          <a href="https://github.com/K1ko" className='btn' target="_blank">Github</a>
+          <a href="https://dribbble.com/shots/16541289-Orion-UI-kit-Charts-templates-infographics-in-Figma" className='btn btn-primary' target="_blank">Live Demo</a>
+          </div>
+        </article>
+        <article className = "portfolio__item">
+          <div className = "portfolio__item-image">
+            <img src={IMG6} alt="" />
+
+          </div>
+          <h3>Charts templates & infographics in Figma</h3>
+
+         <div className="portfolio__item-cta">
+          <a href="https://github.com/K1ko" className='btn' target="_blank">Github</a>
+          <a href="https://dribbble.com/Alien_pixels" className='btn btn-primary' target="_blank">Live Demo</a>
+          </div>
 
         </article>
       </div>
