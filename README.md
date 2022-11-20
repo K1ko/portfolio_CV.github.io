@@ -72,3 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # portfolio_CV
 >>>>>>> 74f30143b7630ace4e91f11dfe33970b0bd6dcf2
+deployed static site
